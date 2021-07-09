@@ -1,0 +1,21 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+.background-image
+{
+    background-image: url('https://wallpaperaccess.com/full/459202.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:600px;
+
+}
+.top-first{
+    float:left;
+    width:50%;
+}
